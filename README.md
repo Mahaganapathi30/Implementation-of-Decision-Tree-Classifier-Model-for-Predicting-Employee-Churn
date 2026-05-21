@@ -56,7 +56,13 @@ plt.show()
 
 ## Output:
 
+
+
+
 <img width="1919" height="912" alt="Screenshot 2026-05-21 230819" src="https://github.com/user-attachments/assets/8f1df9a2-504a-47d5-9869-74d9626807f4" />
+
+
+
 
 
 ## Result:
